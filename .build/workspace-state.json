@@ -14,8 +14,8 @@
         },
         "state" : {
           "checkoutState" : {
-            "revision" : "e78ae0220e17525a15ac68c697a155eb7a672a8e",
-            "version" : "0.15.0"
+            "revision" : "4d543d811ee644fa4cc4bfa0be996b4dd6ba0f54",
+            "version" : "0.13.3"
           },
           "name" : "sourceControlCheckout"
         },
