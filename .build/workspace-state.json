@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "sqlite.swift",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/stephencelis/SQLite.swift.git",
+          "name" : "SQLite.swift"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "e78ae0220e17525a15ac68c697a155eb7a672a8e",
+            "version" : "0.15.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "SQLite.swift"
+      }
+    ]
+  },
+  "version" : 6
+}
